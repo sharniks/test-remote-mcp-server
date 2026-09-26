@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local data
+*.db
+*.db-wal
+*.db-shm
